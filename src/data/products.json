@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Bananas",
+    "image": "/images/banana.jpeg",
+    "certification": "Certified Organic",
+    "nutrition": ["High in Potassium", "Rich in Fiber"],
+    "category": "Fruits"
+  },
+  {
+    "id": 2,
+    "name": "Millet",
+    "image": "/images/millet.jpeg",
+    "certification": "Eco Certified",
+    "nutrition": ["Gluten-Free", "High Iron"],
+    "category": "Grains"
+  },
+  {
+    "id": 3,
+    "name": "Organic Avocado",
+    "image": "/images/avocado.jpg",
+    "certification": "Certified Organic",
+    "nutrition": ["Rich in Fiber", "Healthy Fats"],
+    "category": "Fruits"
+  },
+  {
+    "id": 4,
+    "name": "Agro Maize Flour",
+    "image": "/images/maize.jpeg",
+    "certification": "Eco Certified",
+    "nutrition": ["High Energy", "Gluten-Free"],
+    "category": "Grains"
+  },
+  {
+    "id": 5,
+    "name": "Herbal Tea Blend",
+    "image": "/images/herbal-tea.jpeg",
+    "certification": "Organic",
+    "nutrition": ["Antioxidants", "Caffeine-Free"],
+    "category": "Beverages"
+  },
+  {
+    "id": 6,
+    "name": "Organic Sweet Potatoes",
+    "image": "/images/sweet-potato.jpeg",
+    "certification": "Eco Farm Verified",
+    "nutrition": ["Beta-Carotene", "High in Fiber"],
+    "category": "Vegetables"
+  }
+]
