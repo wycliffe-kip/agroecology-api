@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Organic Bananas",
+    "image": "/images/banana.jpeg",
+    "certification_badge": "Certified Organic",
+    "nutritional_tags": ["High in Potassium", "Rich in Fiber"],
+    "category": "Fruits"
+  }
+]
